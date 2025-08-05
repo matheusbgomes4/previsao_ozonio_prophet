@@ -7,6 +7,8 @@ Para ver a aplicação em ação, clique no badge do Streamlit acima ou visite o
 https://previsaoozonioprophet-gqrjq8wth9m48smahed5ws.streamlit.app/
 
 
+
+
 <img width="566" height="1119" alt="image" src="https://github.com/user-attachments/assets/4a7a946e-2673-46c6-aba7-be92008442e1" />
 
 
