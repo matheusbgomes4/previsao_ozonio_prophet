@@ -19,6 +19,7 @@ Modelo Robusto: Utiliza a poderosa biblioteca Prophet, conhecida por sua capacid
 Interface Intuitiva: Oferece uma interface simples e amigável, construída com Streamlit, permitindo que usuários sem conhecimento técnico em programação usem a aplicação.
 
 Visualização de Dados: Apresenta os resultados da previsão em gráficos interativos, facilitando a análise.
+
 ---
 
 ##🚀 Tecnologias Utilizadas
@@ -31,4 +32,5 @@ Prophet: Biblioteca para previsão de séries temporais, desenvolvida pela Meta 
 Pandas: Essencial para a manipulação e análise dos dados.
 
 Plotly/Matplotlib: Utilizadas para a visualização dos gráficos.
+
 ---
