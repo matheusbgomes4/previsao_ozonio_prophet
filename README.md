@@ -2,7 +2,7 @@
 Este projeto é uma aplicação web interativa, construída com Streamlit, para realizar a previsão de séries temporais de ozônio usando o modelo Prophet da Meta. A ferramenta oferece uma forma simples e visual de analisar e prever dados de ozônio, tornando a modelagem de séries temporais acessível.
 ---
 
-##💻 Demo
+💻 Demo
 Para ver a aplicação em ação, clique no badge do Streamlit acima ou visite o link direto: 
 https://previsaoozonioprophet-gqrjq8wth9m48smahed5ws.streamlit.app/
 
@@ -13,7 +13,7 @@ https://previsaoozonioprophet-gqrjq8wth9m48smahed5ws.streamlit.app/
 
 
 ---
-##✨ Funcionalidades
+✨ Funcionalidades
 Previsão de Séries Temporais: Realiza a previsão de dados de ozônio para o futuro.
 
 Modelo Robusto: Utiliza a poderosa biblioteca Prophet, conhecida por sua capacidade de lidar com sazonalidade e feriados.
@@ -24,7 +24,7 @@ Visualização de Dados: Apresenta os resultados da previsão em gráficos inter
 
 ---
 
-##🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
 Python: A linguagem principal do projeto.
 
 Streamlit: Framework para a construção da aplicação web interativa.
